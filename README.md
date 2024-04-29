@@ -1,0 +1,1 @@
+# yas-gerador-de-senhas
